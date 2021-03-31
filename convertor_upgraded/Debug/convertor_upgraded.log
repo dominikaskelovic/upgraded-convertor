@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Dominik\source\repos\convertor_upgraded\convertor_upgraded\MyForm.cpp(12,15): warning C4551: function call missing argument list
+  Micro.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  convertor_upgraded.vcxproj -> C:\Users\Dominik\source\repos\convertor_upgraded\Debug\convertor_upgraded.exe

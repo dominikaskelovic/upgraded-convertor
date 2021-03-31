@@ -1,0 +1,3 @@
+C:\Users\Dominik\source\repos\convertor_upgraded\convertor_upgraded\Debug\convertor_upgraded.vcxprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\convertor_upgraded\convertor_upgraded\Debug\convertorupgraded.MyForm.resources
+C:\Users\Dominik\source\repos\convertor_upgraded\convertor_upgraded\Debug\convertor_upgraded.vcxproj.GenerateResource.cache
